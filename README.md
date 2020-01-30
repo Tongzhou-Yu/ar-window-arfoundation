@@ -9,4 +9,4 @@ The solution is totally based on DepthMask.shader, here is my idea:
 Read the whole tutorial in my website here: https://yuuuuu.net/2018/02/08/augmented-reality-portal-based-on-arfoundation-in-unity/
 
 ## Basic Scene
-![8201c8dddea7e688defc33fd2f7a1068_1](https://user-images.githubusercontent.com/45578227/73459014-20653f00-43b1-11ea-8ba6-1d913d3a714c.gif)
+![CUIAE3227](https://user-images.githubusercontent.com/45578227/73475299-09cbe180-43cb-11ea-8e6c-1a830792e3e7.gif)
