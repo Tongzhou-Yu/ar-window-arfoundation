@@ -1,5 +1,8 @@
 ## AR Window
-Unity 2019.3.0f3; ARFoundation 3.0.1; ARKit XR Plugin 3.0.1
+Unity 2019.3.0f3  
+ARFoundation 3.0.1  
+ARKit XR Plugin 3.0.1  
+#
 
 This repository contains an Unity example project about creating Augmented Reality Window function which allows users watching a digital room through a image-tracked window.
 
